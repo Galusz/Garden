@@ -1,0 +1,14 @@
+{
+  "garden": "Ogród",
+  "add_plant": "Dodaj roślinę",
+  "edit_plant": "Edytuj roślinę",
+  "plant_search": "Wyszukaj",
+  "no_results": "Brak wyników",
+  "enter_value": "Uzupełnij pole",
+  "plant_name": "Nazwa",
+  "plant_type": "Typ",
+  "plant_date": "Data",
+  "plant_edited": "Roślina edytowana",
+  "plant_added": "Roślina dodana",
+  "submit": "Zapisz"
+}

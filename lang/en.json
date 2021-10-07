@@ -1,0 +1,14 @@
+{
+  "garden": "Garden",
+  "add_plant": "Add plant",
+  "edit_plant": "Edit plant",
+  "plant_search": "Search plant",
+  "enter_value": "Enter some value",
+  "no_results": "No results",
+  "plant_name": "Name",
+  "plant_type": "Type",
+  "plant_date": "Date",
+  "plant_edited": "Plant edited",
+  "plant_added": "Plant added",
+  "submit": "Save"
+}
