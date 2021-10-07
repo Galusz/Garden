@@ -1,8 +1,12 @@
 # garden_app
 
 +BLoC
+
 +Floor
+
 +Multilang (pl, en) (uses system configuration)
+
+
 
 ![image](https://user-images.githubusercontent.com/44406683/136450947-188c54ad-ea96-4674-bf82-c0b8bb5c2c29.png)
 
